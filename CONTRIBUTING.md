@@ -91,7 +91,7 @@ A PR that adds more than one skill directory will be asked to split. It is not a
 
 ## Overlap with an existing skill
 
-The catalogue currently has 55 unreviewed near-duplicate description pairs, involving 94 of the 817 skills. Overlapping descriptions are not a cosmetic problem: when two descriptions look alike, the agent picks the wrong one, and both skills get less useful.
+The catalogue currently has 55 unreviewed near-duplicate description pairs, involving 94 of the 818 skills. Overlapping descriptions are not a cosmetic problem: when two descriptions look alike, the agent picks the wrong one, and both skills get less useful.
 
 Until that backlog is worked down, **a new skill that overlaps an existing one will usually be asked to extend the existing skill instead.** Adding depth to `performing-firmware-extraction-with-binwalk` is worth more to this catalogue right now than a second firmware-extraction skill beside it. That redirect is about where the work lands, not about its quality — an extension PR carries the same authorship and gets the same credit.
 
