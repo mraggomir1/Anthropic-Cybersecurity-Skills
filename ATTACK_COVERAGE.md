@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Tactics-14%2F14-green?style=for-the-badge" alt="Tactics" />
 </p>
 
-This document maps all **291 unique MITRE ATT&CK techniques** (across **149 parent techniques**) referenced in our **817 cybersecurity skills** to the 14 Enterprise ATT&CK tactics. Use this to identify coverage gaps, plan detection engineering priorities, or validate your security program against the ATT&CK framework.
+This document maps all **291 unique MITRE ATT&CK techniques** (across **149 parent techniques**) referenced in our **818 cybersecurity skills** to the 14 Enterprise ATT&CK tactics. Use this to identify coverage gaps, plan detection engineering priorities, or validate your security program against the ATT&CK framework.
 
 > **How to read this:** Each technique links to its official ATT&CK page. Skills listed under each technique are the ones in this repository that teach detection, hunting, exploitation, or response for that technique.
 
@@ -347,7 +347,7 @@ This document maps all **291 unique MITRE ATT&CK techniques** (across **149 pare
 | [T1114.003](https://attack.mitre.org/techniques/T1114/003/) | `detecting-business-email-compromise`, `detecting-email-forwarding-rules-attack` |
 | [T1115](https://attack.mitre.org/techniques/T1115/) | `performing-purple-team-atomic-testing` |
 | [T1213](https://attack.mitre.org/techniques/T1213/) | `conducting-full-scope-red-team-engagement` |
-| [T1530](https://attack.mitre.org/techniques/T1530/) | `detecting-insider-threat-behaviors`, `implementing-mitre-attack-coverage-mapping`, `performing-cloud-incident-containment-procedures` |
+| [T1530](https://attack.mitre.org/techniques/T1530/) | `conducting-gdpr-compliance-assessment`, `detecting-insider-threat-behaviors`, `implementing-mitre-attack-coverage-mapping`, `performing-cloud-incident-containment-procedures` |
 | [T1560](https://attack.mitre.org/techniques/T1560/) | `conducting-full-scope-red-team-engagement`, `hunting-for-data-staging-before-exfiltration` |
 | [T1560.001](https://attack.mitre.org/techniques/T1560/001/) | `hunting-for-data-staging-before-exfiltration`, `performing-purple-team-atomic-testing` |
 
@@ -398,7 +398,7 @@ This document maps all **291 unique MITRE ATT&CK techniques** (across **149 pare
 | [T1048.003](https://attack.mitre.org/techniques/T1048/003/) | `conducting-full-scope-red-team-engagement`, `hunting-for-data-exfiltration-indicators`, `hunting-for-dns-tunneling-with-zeek`, `implementing-continuous-security-validation-with-bas`, `implementing-mitre-attack-coverage-mapping` +2 more |
 | [T1052](https://attack.mitre.org/techniques/T1052/) | `hunting-for-data-exfiltration-indicators` |
 | [T1537](https://attack.mitre.org/techniques/T1537/) | `hunting-for-data-exfiltration-indicators`, `hunting-for-living-off-the-cloud-techniques`, `implementing-mitre-attack-coverage-mapping`, `implementing-threat-modeling-with-mitre-attack`, `performing-cloud-incident-containment-procedures` |
-| [T1567](https://attack.mitre.org/techniques/T1567/) | `detecting-insider-threat-behaviors`, `hunting-for-data-exfiltration-indicators`, `hunting-for-living-off-the-cloud-techniques`, `implementing-continuous-security-validation-with-bas`, `performing-purple-team-atomic-testing` |
+| [T1567](https://attack.mitre.org/techniques/T1567/) | `conducting-gdpr-compliance-assessment`, `detecting-insider-threat-behaviors`, `hunting-for-data-exfiltration-indicators`, `hunting-for-living-off-the-cloud-techniques`, `implementing-continuous-security-validation-with-bas`, `performing-purple-team-atomic-testing` |
 | [T1567.002](https://attack.mitre.org/techniques/T1567/002/) | `hunting-for-data-exfiltration-indicators`, `performing-purple-team-atomic-testing` |
 
 ---
@@ -505,5 +505,5 @@ GenAI-specific subcategories applied: GOVERN-6.1, GOVERN-6.2 (responsible deploy
 ---
 
 <p align="center">
-  <sub>Part of <a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills">Anthropic Cybersecurity Skills</a> — 817 open-source cybersecurity skills for AI agents</sub>
+  <sub>Part of <a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills">Anthropic Cybersecurity Skills</a> — 818 open-source cybersecurity skills for AI agents</sub>
 </p>
